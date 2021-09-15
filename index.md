@@ -17,7 +17,7 @@ page_sections:
     link_text: Questions
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    button_text: Download
 - template: content-feature
   block: feature-1
   media_alignment: Right
