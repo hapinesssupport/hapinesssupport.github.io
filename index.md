@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2021/09/15/wechatimg50.jpeg"
   navigation: []
 - template: content-feature
   block: feature-1
