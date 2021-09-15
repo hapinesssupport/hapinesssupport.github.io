@@ -52,9 +52,6 @@ page_sections:
   media:
     image: "/uploads/2021/09/15/download_headline__bylr6a8vfv42_large.png"
     alt_text: uBuild Blocks Mock-Up
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in La Ceiba
 - template: signup-bar
   block: cta-bar
   content: ''
@@ -73,5 +70,8 @@ page_sections:
     headline: ''
     slug: ''
     content: ''
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in La Ceiba
 
 ---
