@@ -55,7 +55,7 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2021/09/15/pckt-vapor-vrtcl-10.jpeg"
+    image: "/uploads/2021/09/15/download_headline__bylr6a8vfv42_large.png"
     alt_text: uBuild Blocks Mock-Up
 - template: simple-footer
   block: footer-1
