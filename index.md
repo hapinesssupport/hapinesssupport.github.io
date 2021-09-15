@@ -3,21 +3,10 @@ layout: blocks
 title: Welcome to the Candy Shop
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: ''
-    link_text: Products
-  - link: ''
-    link_text: Free Delivery
-  - link: ''
-    link_text: Payment
-  - link: ''
-    link_text: Questions
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Download
+  navigation: []
 - template: content-feature
   block: feature-1
   media_alignment: Right
