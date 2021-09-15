@@ -52,10 +52,6 @@ page_sections:
   media:
     image: "/uploads/2021/09/15/download_headline__bylr6a8vfv42_large.png"
     alt_text: uBuild Blocks Mock-Up
-- template: signup-bar
-  block: cta-bar
-  content: ''
-  email_recipient: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -82,6 +78,10 @@ page_sections:
       the fine details like which buttons are most effective and how to choose the
       right button for the right audience, here’s a snapshot of what your content
       <em>must</em> do, in order to <em>motivate</em> readers to click the button
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
