@@ -67,9 +67,13 @@ page_sections:
       right button for the right audience, here’s a snapshot of what your content
       <em>must</em> do, in order to <em>motivate</em> readers to click the button
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: Content that guides
+    slug: Content that guides
+    content: Content that guides readers towards making a decision, i.e. clicking
+      a CTA button, is essential for your business’ success. Before we talk about
+      the fine details like which buttons are most effective and how to choose the
+      right button for the right audience, here’s a snapshot of what your content
+      <em>must</em> do, in order to <em>motivate</em> readers to click the button
   col_3:
     headline: ''
     slug: ''
