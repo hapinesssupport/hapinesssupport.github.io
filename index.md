@@ -29,7 +29,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2021/09/15/download.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
