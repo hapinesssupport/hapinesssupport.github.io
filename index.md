@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Products
-  - link: "#delivery"
-    link_text: Delivery
+  - link: ''
+    link_text: Free Delivery
   - link: "#payment"
     link_text: Payment
   - link: "#questions"
