@@ -20,12 +20,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Write us an email<br><strong>hapinesssupport@protonmail.com</strong>
-  content: We will gladly answer all your questions
+  headline: Email us<br><strong>hapinesssupport@protonmail.com</strong>
+  content: ''
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Download
+    url: hapinesssupport@protonmail.com
+    button_text: email
   image:
     image: ''
     alt_text: ''
