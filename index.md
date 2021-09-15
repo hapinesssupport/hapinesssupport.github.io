@@ -11,7 +11,7 @@ page_sections:
     link_text: Products
   - link: ''
     link_text: Free Delivery
-  - link: "#payment"
+  - link: ''
     link_text: Payment
   - link: "#questions"
     link_text: Questions
