@@ -19,7 +19,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Email us<br><strong>hapinesssupport@protonmail.com</strong>
+  headline: Email us<br><strong>laceiba420@protonmail.com</strong>
   content: ''
   cta:
     enabled: true
@@ -31,24 +31,18 @@ page_sections:
   background_image: "/uploads/2021/09/15/download-1-1.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  slug: swap
+  media_alignment: Right
+  slug: ''
   headline: <strong>Order &amp; Pay<span class="light"> </span></strong><span class="light">we
     will ship the same day</span>
   content: ''
   media:
     image: "/uploads/2021/09/15/download_headline__bylr6a8vfv42_large.png"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: ''
 - template: signup-bar
   block: cta-bar
   content: ''
   email_recipient: ''
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/09/15/pckt-vrtcl-battery-all-colors-with-cartridges-inside-1.jpeg"
-  col_2: Choose any Color
-  col_3: Choose a Tip
-  col_4: We Deliver
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
