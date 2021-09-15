@@ -55,5 +55,23 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
