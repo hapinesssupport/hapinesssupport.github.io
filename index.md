@@ -12,8 +12,7 @@ page_sections:
   media_alignment: Right
   slug: customize
   headline: <strong>FREE DELIVERY</strong><span class="light"> in La Ceiba</span>
-  content: Just let us know 24 hours in advance and we will delivery it near your
-    home
+  content: ''
   media:
     image: "/uploads/2021/09/15/download-2.png"
     alt_text: Customize Blocks
