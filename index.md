@@ -44,11 +44,6 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/09/15/download-2.png"
-  slug: ''
-  caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
