@@ -3,16 +3,6 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: <strong>FREE DELIVERY</strong><span class="light"> all around La Ceiba</span>
-  content: Just let us know 24 hours in advance and we will delivery it near your
-    home
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
@@ -30,6 +20,16 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: customize
+  headline: <strong>FREE DELIVERY</strong><span class="light"> all around La Ceiba</span>
+  content: Just let us know 24 hours in advance and we will delivery it near your
+    home
+  media:
+    image: "/uploads/2018/06/21/edit.gif"
+    alt_text: Customize Blocks
 - template: hero-banner-w-image
   block: hero-2
   slug: features
