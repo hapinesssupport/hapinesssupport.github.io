@@ -44,6 +44,14 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2021/09/15/powerful_headline__eihwam1ozt6q_large.png"
+    caption: ''
+  image_2:
+    image: "/uploads/2021/09/15/download-3.png"
+    caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
