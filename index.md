@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/09/15/powerful_headline__eihwam1ozt6q_large.png"
   navigation:
-  - link: "/"
+  - link: ''
     link_text: Products
   - link: ''
     link_text: Free Delivery
