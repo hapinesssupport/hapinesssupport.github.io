@@ -13,7 +13,7 @@ page_sections:
     link_text: Free Delivery
   - link: ''
     link_text: Payment
-  - link: "#questions"
+  - link: ''
     link_text: Questions
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
