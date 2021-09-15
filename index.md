@@ -28,7 +28,7 @@ page_sections:
   content: Just let us know 24 hours in advance and we will delivery it near your
     home
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2021/09/15/download.png"
     alt_text: Customize Blocks
 - template: hero-banner-w-image
   block: hero-2
@@ -40,8 +40,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: ''
+    alt_text: ''
   background_image: "/uploads/2021/09/15/download.png"
 - template: detail-content
   block: text-1
@@ -59,11 +59,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  slug: "#blocks"
-  caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
