@@ -56,16 +56,6 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    content: Content that guides
-    slug: Content that guides
-    headline: Content that guides
-  col_2:
-    headline: Content that guides
-    slug: Content that guides
-    content: Content that guides
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
