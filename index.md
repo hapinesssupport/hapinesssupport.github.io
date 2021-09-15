@@ -15,7 +15,7 @@ page_sections:
   content: Just let us know 24 hours in advance and we will delivery it near your
     home
   media:
-    image: "/uploads/2021/09/15/download.png"
+    image: "/uploads/2021/09/15/download-2.png"
     alt_text: Customize Blocks
 - template: hero-banner-w-image
   block: hero-2
