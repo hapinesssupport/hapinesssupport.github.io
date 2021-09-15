@@ -46,8 +46,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: How does it work!
-  content: "<p>One of the easiest ways to purchase locally and free contactless delivery</p><ol><li><p>You
-    place an order</p></li><li><p>Pay by LTC here</p></li><li><p>We send you the coordinates</p></li></ol>"
+  content: "<p>Easiest way to purchase locally with contactless delivery</p><ol><li><p>Email
+    us your order</p></li><li><p>Pay by LTC</p></li><li><p>We send you the coordinates</p></li></ol>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
