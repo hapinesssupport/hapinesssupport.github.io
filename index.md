@@ -63,9 +63,9 @@ page_sections:
     slug: Content that guides
     headline: Content that guides
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: Content that guides
+    slug: Content that guides
+    content: Content that guides
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
