@@ -13,7 +13,7 @@ page_sections:
     link_text: Delivery
   - link: "#payment"
     link_text: Payment
-  - link: "#"
+  - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
     link_text: Blocks
