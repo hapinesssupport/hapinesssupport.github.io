@@ -78,6 +78,6 @@ page_sections:
   slug: blocks
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ in La Ceiba
 
 ---
