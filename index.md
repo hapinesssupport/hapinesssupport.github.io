@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/09/15/wechatimg50.jpeg"
+  logo: "/uploads/2021/09/15/download_headline__bylr6a8vfv42_large.png"
   navigation: []
 - template: content-feature
   block: feature-1
@@ -28,15 +28,14 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: ''
+  background_image: "/uploads/2021/09/15/download-1-1.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: <strong>Order &amp; Pay<span class="light"> </span></strong><span class="light">we
+    will ship the same day</span>
+  content: ''
   media:
     image: "/uploads/2021/09/15/download_headline__bylr6a8vfv42_large.png"
     alt_text: uBuild Blocks Mock-Up
@@ -44,11 +43,12 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
-- template: full-width-media-element
-  block: media-1
+- template: 4-column-footer
+  block: footer-2
   image: "/uploads/2021/09/15/pckt-vrtcl-battery-all-colors-with-cartridges-inside-1.jpeg"
-  slug: ''
-  caption: ''
+  col_2: Choose any Color
+  col_3: Choose a Tip
+  col_4: We Deliver
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in La Ceiba
