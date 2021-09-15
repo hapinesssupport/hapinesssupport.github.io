@@ -41,11 +41,6 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: "/uploads/2021/09/15/download.png"
-- template: detail-content
-  block: text-1
-  headline: How does it work!
-  content: "<p>Easiest way to purchase locally with contactless delivery</p><ol><li><p>Email
-    us your order</p></li><li><p>Pay by LTC</p></li><li><p>We send you the coordinates</p></li></ol>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
