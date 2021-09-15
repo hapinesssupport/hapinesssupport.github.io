@@ -24,7 +24,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>FREE DELIVERY</strong><span class="light"> all around La Ceiba</span>
+  headline: <strong>FREE DELIVERY</strong><span class="light"> in La Ceiba</span>
   content: Just let us know 24 hours in advance and we will delivery it near your
     home
   media:
