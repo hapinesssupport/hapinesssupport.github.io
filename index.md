@@ -59,8 +59,8 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
-    slug: ''
+    headline: Content that guides
+    slug: Content that guides
     content: Content that guides readers towards making a decision, i.e. clicking
       a CTA button, is essential for your business’ success. Before we talk about
       the fine details like which buttons are most effective and how to choose the
